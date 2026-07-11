@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanpandav/DSA-prep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/amanpandav/DSA-prep/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpandav/DSA-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/amanpandav/DSA-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanpandav/DSA-prep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/amanpandav/DSA-prep/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpandav/DSA-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/amanpandav/DSA-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpandav/DSA-prep/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/amanpandav/DSA-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
