@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amanpandav/DSA-prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/amanpandav/DSA-prep/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpandav/DSA-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/amanpandav/DSA-prep/tree/master/1089-duplicate-zeros) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amanpandav/DSA-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amanpandav/DSA-prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/amanpandav/DSA-prep/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpandav/DSA-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/amanpandav/DSA-prep/tree/master/1089-duplicate-zeros) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amanpandav/DSA-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
